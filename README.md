@@ -23,4 +23,6 @@
 
 <p>If more time had been allowed - I might possibly have re-configured the app to consume an additional 5 single days worth of data from www.openweathermap.org instead of one 5 day batch. I would have added a drop-down list that displayed a choice of single days and allowed the user to choose one or more of those days to display the data as single entities. This would be in addition to the 5 day chart functionality already built.</p>
 
-<p>I may possibly have questioned the choice to show "pressure" and "humidity" for a UK based app user. A deeper review of UX might show data like "snowing" or "raining" or "hail" as being more of a user preference to the weather choices in question.</p>
+<p>I would also have done more thorough testing of the application with either mocha/expect or enzyme/jest</p>
+
+<p>From a UX perspective, I may possibly have questioned the choice to show "pressure" and "humidity" for a UK based app user. A deeper review of UX might show data like "snowing" or "raining" or "hail" as being more of a user preference to the weather choices in question.</p>
